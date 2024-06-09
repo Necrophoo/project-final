@@ -13,7 +13,7 @@ Website Feane adalah website ecommerce burger , dengan produk yang lezat
 
 ## Erd
 
-![ERD](erd/erd.png)
+![ERD](erd/erd_feane.png)
 
 ## Cara Install
 
